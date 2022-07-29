@@ -14,7 +14,7 @@ py-readability-metrics==1.4.3
 pyLDAvis==2.1.2
 scikit-learn==0.22
 scipy==1.4.1
-Scrapy==1.8.0
+Scrapy==2.6.2
 scrapy-deltafetch==1.2.1
 seaborn==0.9.0
 sklearn==0.0
