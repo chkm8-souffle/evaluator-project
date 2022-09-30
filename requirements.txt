@@ -3,7 +3,7 @@ google==2.0.3
 google-api-python-client==1.7.11
 google-auth==1.10.0
 google-auth-httplib2==0.0.3
-joblib==0.14.1
+joblib==1.2.0
 matplotlib==3.1.2
 nltk==3.4.5
 numpy==1.18.0
